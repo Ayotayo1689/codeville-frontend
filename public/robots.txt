@@ -1,0 +1,8 @@
+# *
+User-agent: *
+
+# Host
+Host: https://tantainnovatives.com
+
+# Sitemaps
+Sitemap: https://tantainnovatives.com/sitemap.xml
