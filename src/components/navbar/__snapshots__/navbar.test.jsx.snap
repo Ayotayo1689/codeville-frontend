@@ -1,0 +1,1051 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Navbar unchanged 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-815db372-0 jHiMAa"
+    >
+      <div
+        class="sc-815db372-1 dBhEkV navbar show"
+        id="#navbar"
+      >
+        <div
+          class="sc-815db372-2 dAxwUI"
+        >
+          <ul>
+            <li>
+              Submit your idea
+            </li>
+            <li>
+              A day in the life of Tanta
+            </li>
+            <li>
+              01-453-300
+            </li>
+            <li>
+              hello@tantainnovatives.com
+            </li>
+          </ul>
+          <ul
+            style="margin-left: 2rem;"
+          >
+            <li>
+              Partners
+            </li>
+            <li>
+              Sign in
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-815db372-4 ekOPav"
+        >
+          <a
+            href="/"
+          >
+            <img
+              alt="Tanta innovative"
+              data-nimg="1"
+              decoding="async"
+              height="40"
+              loading="lazy"
+              src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+              srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+              style="color: transparent; height: 50px;"
+              width="40"
+            />
+          </a>
+          <div
+            class="sc-815db372-3 jCITgZ"
+          >
+            <ul>
+              <li>
+                <button
+                  aria-controls="menu-list-:r1:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-button chakra-menu__menu-button css-jnkh1w"
+                  id="menu-button-:r1:"
+                  type="button"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Company
+                  </span>
+                  <span
+                    class="chakra-button__icon css-1hzyiq5"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 1024 1024"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+                <div
+                  class="css-0"
+                  style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+                >
+                  <div
+                    aria-orientation="vertical"
+                    class="chakra-menu__menu-list css-fcfvt0"
+                    id="menu-list-:r1:"
+                    role="menu"
+                    style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+                    tabindex="-1"
+                  >
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="0"
+                      href="/about"
+                      id="menu-list-:r1:-menuitem-:r2:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      About Us
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="1"
+                      href="/contact-us"
+                      id="menu-list-:r1:-menuitem-:r3:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Contact Us
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="2"
+                      href="/career-opportunities"
+                      id="menu-list-:r1:-menuitem-:r4:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Careers
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="3"
+                      href="/leadership"
+                      id="menu-list-:r1:-menuitem-:r5:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Leadership
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="4"
+                      href="/expert"
+                      id="menu-list-:r1:-menuitem-:r6:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Our Expert
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="5"
+                      href="/partnerWithUs"
+                      id="menu-list-:r1:-menuitem-:r7:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Partner with us
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <button
+                  aria-controls="menu-list-:r9:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-button chakra-menu__menu-button css-jnkh1w"
+                  id="menu-button-:r9:"
+                  type="button"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Services
+                  </span>
+                  <span
+                    class="chakra-button__icon css-1hzyiq5"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 1024 1024"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+                <div
+                  class="css-0"
+                  style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+                >
+                  <div
+                    aria-orientation="vertical"
+                    class="chakra-menu__menu-list css-fcfvt0"
+                    id="menu-list-:r9:"
+                    role="menu"
+                    style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+                    tabindex="-1"
+                  >
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="0"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:ra:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Software Development
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="1"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rb:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Testing & QA
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="2"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rc:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Application Services
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="3"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rd:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      UX/UI Design
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="4"
+                      href="/itconsulting"
+                      id="menu-list-:r9:-menuitem-:re:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      IT Consulting
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="5"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rf:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Data Analytics
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="6"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rg:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Cyber Security
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <button
+                  aria-controls="menu-list-:ri:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-button chakra-menu__menu-button css-jnkh1w"
+                  id="menu-button-:ri:"
+                  type="button"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Industries
+                  </span>
+                  <span
+                    class="chakra-button__icon css-1hzyiq5"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 1024 1024"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+                <div
+                  class="css-0"
+                  style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+                >
+                  <div
+                    aria-orientation="vertical"
+                    class="chakra-menu__menu-list css-1yaoao9"
+                    id="menu-list-:ri:"
+                    role="menu"
+                    style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+                    tabindex="-1"
+                  >
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="0"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rj:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Health Care
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="1"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rk:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Retail
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="2"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rl:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Corporate
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="3"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rm:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Real Estate and Housing
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="4"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rn:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Education
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="5"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:ro:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Banking
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="6"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rp:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Oil and Gas
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="7"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rq:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Insurance
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="8"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rr:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Public Sector
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a
+                  _focus="[object Object]"
+                  aria-controls="menu-list-:rt:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-menu__menu-button"
+                  font-style="[object Object]"
+                  font-weight="bold"
+                  href="/caseStudies"
+                  id="menu-button-:rt:"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Case Studies
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a
+                  _focus="[object Object]"
+                  aria-controls="menu-list-:rv:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-menu__menu-button"
+                  font-style="[object Object]"
+                  font-weight="bold"
+                  href="/blog"
+                  id="menu-button-:rv:"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Blog
+                  </span>
+                </a>
+              </li>
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"
+                />
+              </svg>
+
+            </ul>
+          </div>
+          <a
+            class="sc-815db372-5 kELQZN"
+          >
+            Lets Talk
+          </a>
+        </div>
+        <div
+          class="mobile-bottom css-1nszowh"
+        >
+          <div
+            class="css-gg4vpm"
+          >
+            <p
+              class="chakra-text css-kbn7if"
+            >
+              Making a Better Reality
+            </p>
+            <svg
+              color="white"
+              fill="currentColor"
+              height="1.4rem"
+              stroke="currentColor"
+              stroke-width="0"
+              style="color: white;"
+              viewBox="0 0 24 24"
+              width="1.4rem"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0V0z"
+                fill="none"
+              />
+              <path
+                d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <div>
+    <div
+      class="sc-815db372-0 jHiMAa"
+    >
+      <div
+        class="sc-815db372-1 dBhEkV navbar show"
+        id="#navbar"
+      >
+        <div
+          class="sc-815db372-2 dAxwUI"
+        >
+          <ul>
+            <li>
+              Submit your idea
+            </li>
+            <li>
+              A day in the life of Tanta
+            </li>
+            <li>
+              01-453-300
+            </li>
+            <li>
+              hello@tantainnovatives.com
+            </li>
+          </ul>
+          <ul
+            style="margin-left: 2rem;"
+          >
+            <li>
+              Partners
+            </li>
+            <li>
+              Sign in
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-815db372-4 ekOPav"
+        >
+          <a
+            href="/"
+          >
+            <img
+              alt="Tanta innovative"
+              data-nimg="1"
+              decoding="async"
+              height="40"
+              loading="lazy"
+              src="/_next/image?url=%2Fimg.jpg&w=96&q=75"
+              srcset="/_next/image?url=%2Fimg.jpg&w=48&q=75 1x, /_next/image?url=%2Fimg.jpg&w=96&q=75 2x"
+              style="color: transparent; height: 50px;"
+              width="40"
+            />
+          </a>
+          <div
+            class="sc-815db372-3 jCITgZ"
+          >
+            <ul>
+              <li>
+                <button
+                  aria-controls="menu-list-:r1:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-button chakra-menu__menu-button css-jnkh1w"
+                  id="menu-button-:r1:"
+                  type="button"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Company
+                  </span>
+                  <span
+                    class="chakra-button__icon css-1hzyiq5"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 1024 1024"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+                <div
+                  class="css-0"
+                  style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+                >
+                  <div
+                    aria-orientation="vertical"
+                    class="chakra-menu__menu-list css-fcfvt0"
+                    id="menu-list-:r1:"
+                    role="menu"
+                    style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+                    tabindex="-1"
+                  >
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="0"
+                      href="/about"
+                      id="menu-list-:r1:-menuitem-:r2:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      About Us
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="1"
+                      href="/contact-us"
+                      id="menu-list-:r1:-menuitem-:r3:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Contact Us
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="2"
+                      href="/career-opportunities"
+                      id="menu-list-:r1:-menuitem-:r4:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Careers
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="3"
+                      href="/leadership"
+                      id="menu-list-:r1:-menuitem-:r5:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Leadership
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="4"
+                      href="/expert"
+                      id="menu-list-:r1:-menuitem-:r6:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Our Expert
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-nxk1sm"
+                      data-index="5"
+                      href="/partnerWithUs"
+                      id="menu-list-:r1:-menuitem-:r7:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Partner with us
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <button
+                  aria-controls="menu-list-:r9:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-button chakra-menu__menu-button css-jnkh1w"
+                  id="menu-button-:r9:"
+                  type="button"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Services
+                  </span>
+                  <span
+                    class="chakra-button__icon css-1hzyiq5"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 1024 1024"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+                <div
+                  class="css-0"
+                  style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+                >
+                  <div
+                    aria-orientation="vertical"
+                    class="chakra-menu__menu-list css-fcfvt0"
+                    id="menu-list-:r9:"
+                    role="menu"
+                    style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+                    tabindex="-1"
+                  >
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="0"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:ra:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Software Development
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="1"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rb:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Testing & QA
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="2"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rc:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Application Services
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="3"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rd:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      UX/UI Design
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="4"
+                      href="/itconsulting"
+                      id="menu-list-:r9:-menuitem-:re:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      IT Consulting
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="5"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rf:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Data Analytics
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-1akzptf"
+                      data-index="6"
+                      href="/"
+                      id="menu-list-:r9:-menuitem-:rg:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Cyber Security
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <button
+                  aria-controls="menu-list-:ri:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-button chakra-menu__menu-button css-jnkh1w"
+                  id="menu-button-:ri:"
+                  type="button"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Industries
+                  </span>
+                  <span
+                    class="chakra-button__icon css-1hzyiq5"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      stroke="currentColor"
+                      stroke-width="0"
+                      viewBox="0 0 1024 1024"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M840.4 300H183.6c-19.7 0-30.7 20.8-18.5 35l328.4 380.8c9.4 10.9 27.5 10.9 37 0L858.9 335c12.2-14.2 1.2-35-18.5-35z"
+                      />
+                    </svg>
+                  </span>
+                </button>
+                <div
+                  class="css-0"
+                  style="visibility: hidden; position: absolute; min-width: max-content; inset: 0 auto auto 0;"
+                >
+                  <div
+                    aria-orientation="vertical"
+                    class="chakra-menu__menu-list css-1yaoao9"
+                    id="menu-list-:ri:"
+                    role="menu"
+                    style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0);"
+                    tabindex="-1"
+                  >
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="0"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rj:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Health Care
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="1"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rk:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Retail
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="2"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rl:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Corporate
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="3"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rm:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Real Estate and Housing
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="4"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rn:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Education
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="5"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:ro:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Banking
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="6"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rp:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Oil and Gas
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="7"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rq:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Insurance
+                    </a>
+                    <a
+                      class="chakra-menu__menuitem css-13ip1f5"
+                      data-index="8"
+                      href="/"
+                      id="menu-list-:ri:-menuitem-:rr:"
+                      role="menuitem"
+                      tabindex="-1"
+                    >
+                      Public Sector
+                    </a>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a
+                  _focus="[object Object]"
+                  aria-controls="menu-list-:rt:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-menu__menu-button"
+                  font-style="[object Object]"
+                  font-weight="bold"
+                  href="/caseStudies"
+                  id="menu-button-:rt:"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Case Studies
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a
+                  _focus="[object Object]"
+                  aria-controls="menu-list-:rv:"
+                  aria-expanded="false"
+                  aria-haspopup="menu"
+                  class="chakra-menu__menu-button"
+                  font-style="[object Object]"
+                  font-weight="bold"
+                  href="/blog"
+                  id="menu-button-:rv:"
+                >
+                  <span
+                    class="css-xl71ch"
+                  >
+                    Blog
+                  </span>
+                </a>
+              </li>
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"
+                />
+              </svg>
+
+            </ul>
+          </div>
+          <a
+            class="sc-815db372-5 kELQZN"
+          >
+            Lets Talk
+          </a>
+        </div>
+        <div
+          class="mobile-bottom css-1nszowh"
+        >
+          <div
+            class="css-gg4vpm"
+          >
+            <p
+              class="chakra-text css-kbn7if"
+            >
+              Making a Better Reality
+            </p>
+            <svg
+              color="white"
+              fill="currentColor"
+              height="1.4rem"
+              stroke="currentColor"
+              stroke-width="0"
+              style="color: white;"
+              viewBox="0 0 24 24"
+              width="1.4rem"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0V0z"
+                fill="none"
+              />
+              <path
+                d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
